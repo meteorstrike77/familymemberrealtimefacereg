@@ -1,0 +1,49 @@
+body{
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
+button{
+    font-family: 'Staatliches';
+    font-size: 30px;
+    background-color: pink;
+    border: 3px dashed black;
+}
+h1{
+    font-size: 60px;
+}
+#heading{
+    background-color: lightblue;
+}
+div{
+    font-size: 44px;
+}
+html{
+    background-repeat: no-repeat;
+}
+#body{
+    background-size: stretch;
+}
+#familymember{
+    background-color: gold;
+    box-shadow: 5px 5px 5px gray;
+}
+#accuracy{
+    background-color: green;
+    box-shadow: 5px 5px 5px gray;
+}
+.copy_right_footer{
+    font-size: 25px;
+    background-color: cadetblue;
+    margin-bottom: 0;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 150px;
+}
+#image{
+    background-image: url("image.jpg");
+    background-size: cover;
+    background-position: center;
+}
